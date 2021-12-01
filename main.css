@@ -1,15 +1,23 @@
-*{
+* {
   font-family: 'Anaheim', sans-serif;
 }
 
-body{
+body {
   background-color: #c7c7c7;
 }
 
-.container{
+.container {
   background-color: white;
 }
 
+.image {
+  background-image: url("./me.png");
+  height: 125px;
+  width: 125px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 p {
   font-size: 20px;
