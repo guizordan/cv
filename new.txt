@@ -1,0 +1,47 @@
+Intro:
+
+Guilherme is an experienced Software Engineer with a degree in Analysis and Systems Development from Universidade de Passo Fundo in Brazil. With over ten years of progressive software development experience, he excels in leveraging a diverse array of technologies and frameworks, including Node.js, React, TypeScript, JavaScript, .NET C#, Python, and Ruby on Rails. Guilherme has also frequently worked with React Native, various unit testing frameworks, GraphQL, Git, and Bash scripting. Additionally, he possesses experience with database administration tools such as MySQL, Azure SQL Server, CosmosDB, and MongoDB.
+
+In recent years, Guilherme has utilized methodologies like Scrum and Kanban but is adaptable to any project management approach. He is an excellent communicator in English and is comfortable both writing and speaking the language.
+
+
+Compass:
+
+In his role, Guilherme worked with Oracle technologies, beginning as a Junior Trainee Developer. His primary responsibilities included fixing UI bugs using Vanilla JavaScript and jQuery, as well as developing new backend features for a web commerce platform using Oracle tools and Java.
+
+Freelance Dev:
+
+During this period, Guilherme focused on completing his final paper and finishing college, while also expanding his knowledge of new technologies and honing his programming skills. He took on freelance work, developing hybrid mobile apps with AngularJS and backend solutions using Ruby on Rails. To deliver full-stack applications for his small client portfolio, he also learned Linux, Bash scripting, SQL, Git, and Heroku.
+
+Meta:
+
+In his role as a Java and JavaScript developer, Guilherme quickly demonstrated his expertise and was promoted to front-end tech lead, where he designed the front-end architecture for a major pharmaceutical network's project using React, Redux, and Material UI. He also contributed as a React Native and Node.js engineer, building a mobile financial loan application. In this project, he provided technical leadership to the front-end team, developing the mobile app with React Native and related technologies such as React Navigation, Redux, Redux-Saga, and Jest/Enzyme, while also implementing a robust CI/CD pipeline.
+
+Following the project’s completion, Guilherme continued as its maintainer, handling manual updates to the PostgreSQL database and fixing front-end and back-end bugs.
+
+Bairesdev:
+
+This was Guilherme’s first experience working with an international company, where he served as a React Native and Node.js Engineer on a healthcare app for hypothyroidism studies. As the project involved global collaboration, all communication was conducted in English. His key responsibilities included developing the React Native app from scratch under the guidance of the tech lead and building Lambda functions for the Node.js backend on AWS.
+
+In April 2020, while still with the company, Guilherme was assigned to a new project as a third-party contractor at Praxent, where he worked as a Full Stack Web Developer. In this role, he utilized technologies such as Node.js, React, Microsoft SQL Server, Heroku, and GraphQL. This large-scale project required frequent engineering meetings and pair programming sessions, where Guilherme built strong relationships with both QA and fellow developers. His contributions earned him a spot in the top 10% of engineers within the company, marking significant achievements in his career.
+
+Following the conclusion of the Praxent project, which transitioned to the customer’s in-house team, Guilherme was allocated to a startup project. As the sole tech lead and frontend engineer on a 4-person team, he led the React development for a catering software solution, using Material UI, flow typings, Redux Thunk, and Jest with Enzyme. One of his major accomplishments was significantly improving the performance of the Kanban board’s filtering and sorting functions, which were built using the React Drag and Drop library.
+
+Adobe Workfront:
+
+
+As a Front-End Accessibility Engineer, Guilherme worked at Adobe Workfront under a partner company’s umbrella. His primary responsibilities involved adding new features to the 20-year-old Workfront application, focusing on remediating accessibility by implementing keyboard navigation and screen reader support. In addition to his software engineering duties, Guilherme also acted as a QA engineer, ensuring that each merge request met strict quality standards through code reviews and manual testing between engineers.
+
+He gained valuable experience with architectural solutions such as Microfrontends, versioning of Node packages, and building Microfrontends using Rollup, with build testing via Yalc. Guilherme also resolved CI/CD pipeline issues and regularly worked with technologies like Jest, React Testing Library, TypeScript, and Styled Components.
+
+Nearform:
+
+In this role, Guilherme single-handedly developed and maintained an automated GitHub application using Fastify, Jest, and the GitHub GraphQL API. As the sole engineer on the team, he was responsible for the full lifecycle of the application, including deploying and managing it in the GCP cloud.
+
+Number8:
+
+At Number8, Guilherme worked on a large legacy project for a key client, where security considerations necessitated upgrading all the libraries used in the project.
+
+His main responsibilities included upgrading the server node versions from 6 to 18 using Bash scripting and Docker containers. He also migrated the versions of the two databases utilized in the project—SQL Server and MongoDB—along with their respective drivers. Additionally, he upgraded all front-end and back-end libraries while ensuring that everything continued to function properly. He managed the CI/CD process for the entire upgrade using Jenkins and GitHub.
+
+Currently, Guilherme continues to work at Number8 with a new client, serving as a senior full-stack developer on a project that utilizes Microsoft OCR AI technologies, Azure Functions in C#, CosmosDB, and Storage Queues. The frontend is built using React.
